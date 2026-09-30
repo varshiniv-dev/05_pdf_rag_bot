@@ -1,5 +1,11 @@
 # 📄 Ask My PDF Bot — RAG Chatbot
 
+# 📄 Ask My PDF Bot — RAG Chatbot
+
+## 🌐 Live Demo
+
+[Launch the PDF RAG Chatbot]([YOUR_LIVE_STREAMLIT_URL](https://05-pdf-rag-bot.streamlit.app/))
+
 A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions about their contents.
 
 The application extracts PDF text, creates semantic embeddings, stores them in a FAISS vector index, retrieves relevant sections, and generates an answer using either Gemini or an extractive fallback.
